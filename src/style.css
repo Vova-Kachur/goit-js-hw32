@@ -1,0 +1,70 @@
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+input,
+textarea {
+  all: revert;
+  outline: none;
+  resize: none;
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.newbox {
+    display: flex;
+    gap: 40px;
+}
+
+.name {
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.capital,
+.population,
+.language {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.languages {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.span {
+    font-weight: normal;
+}
