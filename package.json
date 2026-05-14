@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/Vova-Kachur/goit-js-hw32/issues"
   },
-  "homepage": "https://github.com/Vova-Kachur/goit-js-hw32#readme",
+  "homepage": "https://vova-kachur.github.io/goit-js-hw32",
   "dependencies": {
     "@pnotify/core": "^5.2.0",
     "@pnotify/desktop": "^5.2.0",
